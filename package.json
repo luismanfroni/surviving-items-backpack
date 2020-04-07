@@ -1,0 +1,20 @@
+{
+  "name": "surviving-items-backpack",
+  "version": "1.0.0",
+  "description": "",
+  "contributors": ["Luis Felipe Manfroni", "Murillo de Miranda"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismanfroni/surviving-items-backpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismanfroni/surviving-items-backpack/issues"
+  },
+  "homepage": "https://github.com/luismanfroni/surviving-items-backpack#readme"
+}
